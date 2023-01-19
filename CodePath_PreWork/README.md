@@ -8,7 +8,7 @@ TODO:// Add the URL to your animated app walk-though gif in the image tag below.
 TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 Required Features
-1. App displays an image of a school's logo
+[X]1. App displays an image of a school's logo
 2. App has three textfields for first, last, and school names
 3. App has a segmented control that changes student year
 4. Number of pet matches label is increased/decreased by stepper
